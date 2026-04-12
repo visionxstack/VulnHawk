@@ -230,7 +230,7 @@ VulnHawk is intended for use on your **own code** or code you have explicit perm
 
 ## Author
 
-Vision KC
+Vision KC<br>
 [Github](https://github.com/vision-dev1)<br>
 [Portfolio](https://visionkc.com.np)
 
