@@ -22,7 +22,7 @@
 
 ---
 
-VulnHawk is a lightweight, modular **Static Application Security Testing (SAST)** tool built for developers and security researchers. It scans JavaScript and Python codebases for common vulnerability patterns — hardcoded secrets, dangerous functions, and weak cryptography — directly from the command line.
+VulnHawk is a lightweight, modular **Static Application Security Testing (SAST)** tool built for developers and security researchers. It scans JavaScript and Python codebases for common vulnerability patterns ; hardcoded secrets, dangerous functions, and weak cryptography directly from the command line.
 
 No server. No dependencies. No noise. Just findings.
 
