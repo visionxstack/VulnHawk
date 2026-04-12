@@ -56,8 +56,8 @@ $ python cli.py scan tests/
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/vision-dev1/vulnhawk.git
-cd vulnhawk
+git clone https://github.com/vision-dev1/VulnHawk.git
+cd VulnHawk
 ```
 
 **Install dependencies:**
