@@ -14,7 +14,7 @@
 **Hunts vulnerabilities in your code before they turn into exploits.**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)]()
 [![Type](https://img.shields.io/badge/Type-SAST-red?style=flat-square)]()
 
