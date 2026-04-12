@@ -226,7 +226,7 @@ vulnhawk/
 
 VulnHawk is intended for use on your **own code** or code you have explicit permission to test. The `tests/` directory contains **intentionally vulnerable code** for demonstration purposes only. Do not use test samples in production.
 
---
+---
 
 ## Author
 
