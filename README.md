@@ -56,7 +56,7 @@ $ python cli.py scan tests/
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/vision-dev1/VulnHawk.git
+git clone https://github.com/visionxstack/VulnHawk.git
 cd VulnHawk
 ```
 
@@ -231,7 +231,7 @@ VulnHawk is intended for use on your **own code** or code you have explicit perm
 ## Author
 
 Vision KC<br>
-[Github](https://github.com/vision-dev1)<br>
+[Github](https://github.com/visionxstack)<br>
 [Portfolio](https://visionkc.com.np)
 
 > *"Security is not a product, it's a process."*
